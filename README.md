@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TensorFlow js**
 
-- 👨‍💻 All of my projects are available at [ravshanfayziyev.netlify.app](ravshanfayziyev.netlify.app)
+- 👨‍💻 All of my projects are available at [https://github.com/ravshan77?tab=repositor](https://github.com/ravshan77?tab=repositor)
 
 - 📝 I regularly write articles on [https://t.me/react_uz](https://t.me/react_uz)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mygithub77@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ravshan77?tab=repositoriesies](https://github.com/ravshan77?tab=repositoriesies)
+- 📄 Know about my experiences [https://ravshanfayziyev.netlify.app/](https://ravshanfayziyev.netlify.app/)
 
 - ⚡ Fun fact **I am interested in trade and business**
 
