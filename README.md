@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravshan77" alt="ravshan77" /></a> </p>
 
-- 🔭 I’m currently working on [Trade Management]((private))
+- 🔭 I’m currently working on (private) [Trade Management](https://github.com/ravshan77/trade-managment)
 
 - 🌱 I’m currently learning **TensorFlow js**
 
