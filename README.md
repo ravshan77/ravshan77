@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/samandareo/samandareo/master/wave.gif" width="20px">, <br /> I am *Samandar Abdugafforov*.
+<!-- ### Hi there <img src="https://raw.githubusercontent.com/samandareo/samandareo/master/wave.gif" width="20px">, <br /> I am *Samandar Abdugafforov*.
 
 
 ---
@@ -42,21 +42,21 @@
   
 </details>
 
-<br />
+<br /> -->
 
 
 
 
-![Samandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=samandareo&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)
+<!-- ![Samandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=samandareo&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samandareo&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samandareo&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 ![Snake animation](https://github.com/samandareo/samandareo/blob/main/snake.svg)
 
 
 
 
-[html]: https://www.w3schools.com/html/default.asp
+<!-- [html]: https://www.w3schools.com/html/default.asp
 [css]: https://www.w3schools.com/css/default.asp
 [javascript]: https://www.javascript.com/
 [vscode]: https://code.visualstudio.com/
@@ -67,7 +67,7 @@
 [heroku]: https://www.heroku.com/
 [android]: https://www.android.com/
 [linux]: https://www.linux.org/
-[windows]: https://www.microsoft.com/en-us/windows
+[windows]: https://www.microsoft.com/en-us/windows -->
 
 
 
